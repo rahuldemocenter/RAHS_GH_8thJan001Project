@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: RAHS_GH_8thJan001Project
+  gitServerName: RAHS_GH_Account
+  gitUrl: https://github.com/rahuldemocenter
+  gitUsername: rahuldemocenter
+  gitBranch: main
